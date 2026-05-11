@@ -1,25 +1,26 @@
-# 💼 Salary Prediction System
+# 💳 Credit Card Fraud Detection System
 
-A Machine Learning project developed using Python and Streamlit to predict salaries based on experience, performance, and other factors.
+An advanced Machine Learning project developed using Python and Streamlit to detect fraudulent credit card transactions in real time.
 
 ---
 
 ## 🚀 Features
 
-- 📊 Real-time salary prediction
-- 🤖 Machine Learning regression model
-- 🎯 User-friendly prediction system
-- 🌙 Modern Streamlit interface
-- 📂 Clean project structure
+- 💳 Fraud transaction detection
+- 🤖 Machine Learning classification model
+- 📊 Transaction analysis dashboard
+- ⚡ Real-time prediction system
+- 🌙 Modern Streamlit UI
 
 ---
 
 ## 🧠 Machine Learning Concepts Used
 
-- Linear Regression
+- Random Forest Classifier
 - Data preprocessing
-- Feature analysis
-- Model training and prediction
+- Model training
+- Fraud analysis
+- Prediction system
 
 ---
 
@@ -38,6 +39,4 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-
-Run the project:
 streamlit run app.py
